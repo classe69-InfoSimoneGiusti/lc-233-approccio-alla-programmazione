@@ -1,0 +1,63 @@
+ASCOLTO DI UN CD DI MUSICA JAZZ
+
+- Accendo il lettore di CD
+- Vado verso lo scaffale dei CD
+- Scorro tutti i CD sullo scaffale
+    ? SE il cd è di genere JAZZ AND non ho già ascoltato questo CD
+        - Apro la scatola del CD
+        - Prendo il CD
+        - Premo il tasto per far uscire lo sportellino
+        - Appoggio il cd sullo sportellino
+        - Inserisco lo sportellino
+        - Premo Play
+    ALTRIMENTI
+        - Continuo a scorrere i CD
+
+
+/------------------/
+
+ESCO DI CASA... se piove prendo l'ombrello
+
+- Mi dirigo verso la porta principale
+- Prendo dallo svuota tasche le chiavi di casa
+- Apro la porta
+
+? SE fuori piove
+    - Prendo un ombrello
+    - Mi dirigo nuovamente verso la porta
+
+- Attraverso la porta
+- Chiudo la porta
+- Chiudo dall'esterno la porta a chiave
+
+/------------------/
+
+VERIFICA SE SEI MAGGIORENNE
+
+- Richiedi data di nascita
+- Calcola eta della persona
+? SE eta è almeno 18
+    - Permetti l'accesso al sito
+ALTRIMENTI
+    - Mostra un messaggio di errore
+
+
+
+/------------------/
+
+ESEMPIO VEDERE UN FILM SU NETFLIX
+
+- Prendo il telecomando
+- Accedo la televisione
+- Ci mettiamo comodi sul divano
+
+- Vado nella pagina di selezione dei generi
+- Scorro tutti i generi
+    ? SE il genere è uguale a fantascienza
+        - Scorro tutti i film di quel genere
+            ? Se non ho visto quel film AND la data di uscita è successiva al 2018
+                - Premo il tasto Play
+            ALTRIMENTI  
+                - Continuo a scorrere la lista dei film
+    ALTRIMENTI
+        - Continuo a scorrere la lista dei generi
